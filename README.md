@@ -6,12 +6,12 @@
 
  - Projeto feito durante o curso PROPROFISSÃO do Instituto PROA.
    
-## ## vídeo do youtube:
+## vídeo do youtube:
 
  [Clique aqui para acessar!](https://www.youtube.com/watch?v=69-WfrVBli8&t=11s )
  
   #  Veja a página aqui: 
-  [Veja-o aqui!]()
+  [Veja-o aqui!](https://tela-de-login-com-tema-dark-olive.vercel.app/)
    
 ## Tecnologias Aprendidas:
  - HTML.
