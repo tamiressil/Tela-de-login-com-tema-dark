@@ -4,11 +4,14 @@
    
  - Projeto construído com base em um tutorial do Youtube.
 
- - Projeto feito durante o curso PROPROFISSÃO do Instituto PROA
+ - Projeto feito durante o curso PROPROFISSÃO do Instituto PROA.
    
-## Veja a página aqui
+## ## vídeo do youtube:
 
- [Clique aqui para acessar!] https://www.youtube.com/watch?v=69-WfrVBli8&t=11s 
+ [Clique aqui para acessar!](https://www.youtube.com/watch?v=69-WfrVBli8&t=11s )
+ 
+  #  Veja a página aqui: 
+  [Veja-o aqui!]()
    
 ## Tecnologias Aprendidas:
  - HTML.
